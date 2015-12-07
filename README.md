@@ -1,3 +1,5 @@
 # frenchgeowarm
-Website Bootstrapped with Geo for Bootstrap  
-Honors French 4 Environment Project
+Website Bootstrapped with Start Bootstrap
+Honors French 4 Environment Project  
+
+By: Maxwell Wang and Jason Paximadas
